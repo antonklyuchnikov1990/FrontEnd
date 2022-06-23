@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    color: blue;
+}
+
+p {
+    padding: 15px;
+    margin: 15px 0;
+    border: 2px dotted black;
+}
+
+.biography {
+    background-color: chartreuse;
+}
+
+.profession {
+    background-color: coral;
+}
+
+.story {
+    background-color: powderblue;
+}
+
+#main {
+    background-color: azure;
+}

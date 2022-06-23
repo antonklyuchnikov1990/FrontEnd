@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 60px;
+    height: 60px;
+    background-color: beige;
+    transition: background-color 0.5s;
+                box-shadow: 0.5s;
+}
+
+body {
+ font-family: Calibri;
+}
+
+p {
+    width: 1680px;
+}
+
+h1 {
+    color: rgb(251, 251, 251);
+    position: absolute;
+    text-transform: uppercase;
+    padding: 200px;
+    font-size: 6ch;
+}
+
+.roskosh {
+    width: 600px;
+}
+
+.details {
+    width: 600px;
+}
+
+.power {
+    width: 600px;
+}
+
+.art {
+    width: 600px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+

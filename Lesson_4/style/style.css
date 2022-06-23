@@ -1,0 +1,16 @@
+#main p {
+    padding: 20px;
+    border: 2px solid black;
+}
+
+#main .about {
+    background-color: darksalmon;
+}
+
+#main .lesson {
+    background-color: coral;
+}
+
+ol {
+    list-style: upper-alpha;
+}

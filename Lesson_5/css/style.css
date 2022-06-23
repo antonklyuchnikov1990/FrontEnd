@@ -1,0 +1,31 @@
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.img1 {
+    width: 140px;
+}
+
+img {
+    width: 30px;
+}
+
+p {
+    font-size: large;
+    font-weight: bold;
+}
+
+table {
+    table-layout: fixed;
+    width: 300px;
+}
+
+td, th {
+    width: 100px;
+    overflow: scroll;
+}
+
+caption {
+    text-align: start;
+}
